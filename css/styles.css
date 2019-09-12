@@ -58,6 +58,12 @@ p{
   float: right;
   margin-left: 30px;
 }
+.skill-cyplaza{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+  color: #f5564e;
+}
 
 .top_container {
   background-color: #b7fbff;
@@ -128,4 +134,7 @@ p{
   color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
+}
+.subexplain{
+  color: #d4d7dd;
 }
